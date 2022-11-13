@@ -15,6 +15,15 @@
 <figure class="aligncenter"><img decoding="async" src="./We implement WhiteBox Attack on Bitcoin with differential errors according to the research scheme of Eli Biham and Adi Shamir to extract the secret key - CRYPTO DEEP TECH_files/023-1-1024x576.png" alt="We implement WhiteBox Attack on Bitcoin with differential errors according to the research scheme of Eli Biham and Adi Shamir to extract the secret key" class="wp-image-1685"></figure></div>
 
 
+---
+
+
+* Tutorial: https://youtu.be/dLy74McEFTg
+* Tutorial: https://cryptodeep.ru/whitebox-attack
+
+
+---
+
 <p>In this article, we will again touch on the topic of a signature failure in a blockchain transaction and apply a completely new attack:&nbsp;<a href="https://attacksafe.ru/whitebox-attack-on-bitcoin" target="_blank" rel="noreferrer noopener">“WhiteBox Attack on Bitcoin”</a>&nbsp;.<br>Differential fault analysis&nbsp;<code>(DFA)</code>was briefly described in the literature in 1996 when&nbsp;<em>an Israeli cryptographer and cryptanalyst</em>&nbsp;<code>Eli Biham</code>&nbsp;and&nbsp;<em>an Israeli scientist</em>&nbsp;<code>Adi Shamir</code>&nbsp;showed that they could use error injection to extract the&nbsp;<em>secret key</em>&nbsp;and recover the&nbsp;<em>private key</em>&nbsp;using various signature and verification algorithms.</p>
 
 
