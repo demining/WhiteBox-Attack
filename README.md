@@ -19,7 +19,7 @@
 
 
 * Tutorial: https://youtu.be/dLy74McEFTg
-* Tutorial: https://cryptodeep.ru/whitebox-attack
+* Tutorial: https://cryptodeeptech.ru/whitebox-attack
 
 
 ---
